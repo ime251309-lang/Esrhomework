@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-#define SIZE 5
+#define SIZE 10
 
 typedef struct {
     char buffer[SIZE];
